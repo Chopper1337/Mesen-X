@@ -4,6 +4,7 @@ Mesen-X is a fork of Mesen, which is a cross-platform NES/Famicom emulator for W
 The original Mesen project has paused development, and this fork is meant to collect patches contributed by the community.
 
 Changes include:
+* Fix Dualshock 3 DPAD binding on Linux
 * Support for newer versions of Mono, for running Mesen on Linux
 * ESPM homebrew expansion audio support
 * HD Pack improvements
